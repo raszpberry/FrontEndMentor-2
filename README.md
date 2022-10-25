@@ -6,9 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Web Developer Journey: FrontEnd Mentor Challenge #2](#web-developer-journey-frontend-mentor-challenge-2)
-  - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
-  - [Table of contents](#table-of-contents)
 - [Overview](#overview)
     - [Screenshot](#screenshot)
     - [Links](#links)

@@ -19,7 +19,7 @@ body {
   place-items: center;
   height: 100vh;
 
-  font-family: "Outfit", sans-serif;
+  font-family: var(--outfit);
   background: var(--light-gray);
 }
 .card {
